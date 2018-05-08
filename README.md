@@ -1,0 +1,2 @@
+# setup-sc
+setup sc
